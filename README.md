@@ -42,7 +42,7 @@ The project consists of several components:
 #### 1. Clone this repository:
 
 ```bash
-  [git clone https://github.com/Capable-alien/Real-time-Face-Recognition-Using-FaceNet-and-Haar-Cascade-for-Door-Monitoring.git]
+  git clone https://github.com/Capable-alien/Real-time-Face-Recognition-Using-FaceNet-and-Haar-Cascade-for-Door-Monitoring.git
 ```
 #### 2. Set up the required libraries and dependencies in your Python environment.
 #### 3. Configure the PHP and MySQL database settings in `db.php`.
