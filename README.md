@@ -1,4 +1,3 @@
-# Hi 👋, I'm Capable alien
 # Real-time Face Recognition Using FaceNet and Haar Cascade for Door Monitoring
 
 This project implements real-time face recognition using the FaceNet model and Haar Cascade for door monitoring. The system detects and recognizes faces using a webcam or video feed, comparing detected faces against a database of known faces to grant or deny access.
